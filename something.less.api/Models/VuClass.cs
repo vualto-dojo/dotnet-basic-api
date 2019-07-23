@@ -1,4 +1,4 @@
-﻿namespace something_less.Models
+﻿namespace something.less.api.Models
 {
     public class VuClass
     {

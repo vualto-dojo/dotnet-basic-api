@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  something-less:
+    image: vualto-dojo/somethingless
+    build:
+      context: .
+      dockerfile: something.less.api/Dockerfile
